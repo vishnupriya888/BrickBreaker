@@ -1,2 +1,7 @@
-# Brick Breaker 
-A try to reach to the level of creating a brick breaker game
+
+## Use basic p5.play-boilerplate
+Boiler plate for p5.play : https://github.com/vishnupriya-whitehatjr/BasicLibFiles
+
+## Please refer to code notes for explanation.
+
+### Output Link : https://vishnupriya-whitehatjr.github.io/BrickBreaker/index.html
